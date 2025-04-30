@@ -16,4 +16,5 @@ seaborn==0.13.2
 xgboost==2.1.0
 streamlit
 cryptography  # this is used handling cryptography error
+streamlit
 -e .
